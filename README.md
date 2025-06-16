@@ -1,0 +1,1 @@
+This project features a wireless robotic car controlled via Bluetooth using an Arduino Uno, an HC-05 module, and an L298N motor driver. The car can be operated from a smartphone app to move forward, backward, left, and right,
